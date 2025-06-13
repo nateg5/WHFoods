@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='rss.xslt' media='screen'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+   <atom:link href="http://whfoods.org/rss/rss.xml" rel="self" type="application/rss+xml" />
+      <title>The World's Healthiest Foods</title>
+      <link>http://whfoods.org/?utm_source=rss_reader&amp;utm_medium=rss&amp;utm_campaign=rss_feed</link>
+      <docs>http://whfoods.org/rss/rss.xml</docs>
+      <description>The George Mateljan Foundation, a non-profit foundation with no commercial interests or advertising, is a new force for change to help make a healthier you and a healthier world.</description>
+      <language>en-us</language>
+      <generator>PHP/5.6.36</generator>
+      <copyright>Copyright 2002-2008 The George Mateljan Foundation, All Rights Reserved</copyright>
+      <pubDate>Sun, 29 Mar 2020 15:58:34 +0000</pubDate>
+      <lastBuildDate>Sun, 29 Mar 2020 15:58:34 +0000</lastBuildDate>
+      <image>
+	<title>The World's Healthiest Foods</title>
+	<url>http://whfoods.org/images/icon2.gif</url>
+	<link>http://whfoods.org/?utm_source=rss_reader&amp;utm_medium=rss&amp;utm_campaign=rss_feed</link>
+      </image>
+    <item>
+      <title>Food of the Week: Flaxseeds</title>
+      <link>http://whfoods.org/genpage.php?tname=foodspice&amp;dbid=81&amp;utm_source=rss_reader&amp;utm_medium=rss&amp;utm_campaign=rss_feed</link>
+      <description>Sometime between 4000 and 2000 BC, flax cultivation became a common practice in countries bordering the Mediterranean Sea and in regions of the Middle East, and there is some evidence that flax cultivation may have started even thousands of years  ...</description>
+      <pubDate>Sun, 29 Mar 2020 15:58:34 +0000</pubDate>
+      <guid isPermaLink="false">tag:whfoods.org,2020-03-29:whfoods.tname=foodspice&amp;dbid=81</guid>
+    </item>
+    <item>
+      <title>Recipe of the Week: Dijon Flaxseed Dressing</title>
+      <link>http://whfoods.org/genpage.php?tname=recipe&amp;dbid=292&amp;utm_source=rss_reader&amp;utm_medium=rss&amp;utm_campaign=rss_feed</link>
+      <description>This quick and easy dressing uses Flaxseed oil and ground Flaxseeds. ...</description>
+      <pubDate>Sun, 29 Mar 2020 15:58:34 +0000</pubDate>
+      <guid isPermaLink="false">tag:whfoods.org,2020-03-29:whfoods.tname=recipe&amp;dbid=292</guid>
+    </item>
+    <item>
+      <title>Best sources of Omega-3 Fats</title>
+      <link>http://whfoods.org/genpage.php?tname=nutrient&amp;dbid=84&amp;utm_source=rss_reader&amp;utm_medium=rss&amp;utm_campaign=rss_feed</link>
+      <description>No type of fat has been getting more recent publicity than omega-3s, and you're very likely to have seen TV ads or heard radio infomercials about this unique type of fat. However, much of the omega-3 publicity you've heard has probably been focused  ...</description>
+      <pubDate>Sun, 29 Mar 2020 15:58:34 +0000</pubDate>
+      <guid isPermaLink="false">tag:whfoods.org,2020-03-29:whfoods.tname=nutrient&amp;dbid=84</guid>
+    </item>
+    <item>
+      <title>From the kitchen: Tips for Preparing Flaxseeds</title>
+      <link>http://whfoods.org/genpage.php?tname=whfkitqa&amp;dbid=133&amp;utm_source=rss_reader&amp;utm_medium=rss&amp;utm_campaign=rss_feed</link>
+      <description>Grind flaxseeds in a coffee, seed, or spice grinder in order to enhance their digestibility and therefore their nutritional value. If adding ground flaxseeds to a cooked cereal or grain dish, do so at the end of cooking since the soluble fiber in  ...</description>
+      <pubDate>Sun, 29 Mar 2020 15:58:34 +0000</pubDate>
+      <guid isPermaLink="false">tag:whfoods.org,2020-03-29:whfoods.tname=whfkitqa&amp;dbid=133</guid>
+    </item>
+    <item>
+      <title>What are your recommendations about flaxseed oil?</title>
+      <link>http://whfoods.org/genpage.php?tname=george&amp;dbid=316&amp;utm_source=rss_reader&amp;utm_medium=rss&amp;utm_campaign=rss_feed</link>
+      <description>First of all, it's important to think about flaxseed oil as falling outside of the category of "cooking oils." It's never a good idea to treat flaxseed oil as a cooking oil - it's composition is simply too delicate and easily oxidized to risk  ...</description>
+      <pubDate>Sun, 29 Mar 2020 15:58:34 +0000</pubDate>
+      <guid isPermaLink="false">tag:whfoods.org,2020-03-29:whfoods.tname=george&amp;dbid=316</guid>
+    </item>
+    <item>
+      <title>I have heard conflicting views from manufacturers and scientists regarding how long it takes flax seed oil to go rancid and not be safe for use.  Can you clarify this issue for me?</title>
+      <link>http://whfoods.org/genpage.php?tname=george&amp;dbid=73&amp;utm_source=rss_reader&amp;utm_medium=rss&amp;utm_campaign=rss_feed</link>
+      <description>All oils, under certain circumstances, will "go rancid" at some point in time. Whether it's flax seed oil or any other kind of oil, with respect to determining its shelf life and the development of rancidity, you need to pay attention to its  ...</description>
+      <pubDate>Sun, 29 Mar 2020 15:58:34 +0000</pubDate>
+      <guid isPermaLink="false">tag:whfoods.org,2020-03-29:whfoods.tname=george&amp;dbid=73</guid>
+    </item>
+    <item>
+      <title>High-Temperature Cooking &amp; The World's Healthiest Foods</title>
+      <link>http://whfoods.org/genpage.php?tname=george&amp;dbid=122&amp;utm_source=rss_reader&amp;utm_medium=rss&amp;utm_campaign=rss_feed</link>
+      <description>(Note: All temperatures below are reported in Fahrenheit measurements).One of the greatest insults to nourishment in our modern, fast-paced, and processed food culture is the high heat at which so much of our food is cooked. We deep fat fry at  ...</description>
+      <pubDate>Sun, 29 Mar 2020 15:58:34 +0000</pubDate>
+      <guid isPermaLink="false">tag:whfoods.org,2020-03-29:whfoods.tname=george&amp;dbid=122</guid>
+    </item>
+    <item>
+      <title>What is acrylamide and how is it involved with food and health?</title>
+      <link>http://whfoods.org/genpage.php?tname=george&amp;dbid=260&amp;utm_source=rss_reader&amp;utm_medium=rss&amp;utm_campaign=rss_feed</link>
+      <description>Acrylamide is a potentially toxic and potentially cancer-causing substance that can be naturally present in uncooked, raw foods in very small amounts. But for this substance to pose a risk of toxicity or cancer, it must be present in foods in much  ...</description>
+      <pubDate>Sun, 29 Mar 2020 15:58:34 +0000</pubDate>
+      <guid isPermaLink="false">tag:whfoods.org,2020-03-29:whfoods.tname=george&amp;dbid=260</guid>
+    </item>
+    <item>
+      <title>I've heard a lot about eating a "colorful diet." Should I pick fruits and vegetables based on color to help me get more benefits from these foods? </title>
+      <link>http://whfoods.org/genpage.php?tname=george&amp;dbid=404&amp;utm_source=rss_reader&amp;utm_medium=rss&amp;utm_campaign=rss_feed</link>
+      <description>Color shouldn't be the only factor when picking fruits and vegetables - but it also shouldn't be ignored. In this article, we will tell you when to rely on color and when to rely on other features of fruits and vegetables. You'll learn the basis of  ...</description>
+      <pubDate>Sun, 29 Mar 2020 15:58:34 +0000</pubDate>
+      <guid isPermaLink="false">tag:whfoods.org,2020-03-29:whfoods.tname=george&amp;dbid=404</guid>
+    </item>
+    <item>
+      <title>How do our vegetable recommendations at WHFoods compare with common public health recommendations?</title>
+      <link>http://whfoods.org/genpage.php?tname=george&amp;dbid=407&amp;utm_source=rss_reader&amp;utm_medium=rss&amp;utm_campaign=rss_feed</link>
+      <description>At WHFoods, we place greater emphasis on vegetables than most common public health recommendations. In fact, we are not aware of any widely publicized vegetable recommendations that focus as much on vegetables as much as we do. You will find public  ...</description>
+      <pubDate>Sun, 29 Mar 2020 15:58:34 +0000</pubDate>
+      <guid isPermaLink="false">tag:whfoods.org,2020-03-29:whfoods.tname=george&amp;dbid=407</guid>
+    </item>  </channel>
+</rss>
